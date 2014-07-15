@@ -1,3 +1,8 @@
-name: Your New Jekyll Site
-markdown: redcarpet 
-highlighter: pygments
+name: White Ideas
+markdown: redcarpet
+highligther: 'pygments' 
+permalink: /:year/:month/:title/
+url: http://nadjetey.github.io/GridGallery/
+author:
+    name: Nii Adjetey Sowah
+    twitter: #
