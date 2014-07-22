@@ -2,7 +2,7 @@ name: White Ideas
 markdown: redcarpet
 highligther: 'pygments' 
 permalink: /:year/:month/:title/
-url: http://nadjetey.github.io/GridGallery/
+url: http://whiteideasco.github.io/
 author:
     name: Nii Adjetey Sowah
     twitter: #
