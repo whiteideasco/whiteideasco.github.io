@@ -3,5 +3,5 @@ layout: default
 date: 2014-07-23 02:09:00
 photo: solar.png
 caption_header: Sistemas energéticos renovables
-caption: Diseño de sistemas solares y eólicos On-grid o Off-grid, garantizando la operación de cargas críticas en ausencia parcial o total de las generadoras eléctricas convencionales.
+caption: Diseño de sistemas solares y eólicos On-grid o Off-grid, cómo una alternativa eficiente de las generadoras eléctricas convencionales.
 ---
