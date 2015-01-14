@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-14 02:09:00
+photo: bi.png
+caption_header: Business Intelligence 
+caption: Diseño de algoritmos inteligentes destinados a la minería de datos para garantizar la eficiente y efectiva toma de decisiones.  Creamos conocimiento con base en la información suministrada por nuestros clientes
+---
