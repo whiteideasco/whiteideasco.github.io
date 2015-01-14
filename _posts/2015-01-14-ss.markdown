@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-14 02:09:00
+photo: ss.png
+caption_header: Sellos de Seguridad
+caption: Elementos de seguridad con capacidades anti-tamper para dificultar la manipulación y violación de activos críticos. Diseñamos sellos con tecnología inalámbrica reduciendo al máximo los efectos adversos del fraude.
+---
