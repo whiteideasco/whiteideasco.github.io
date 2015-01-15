@@ -3,5 +3,5 @@ layout: default
 date: 2015-01-14 02:09:00
 photo: sl.png
 caption_header: Etiquetas de seguridad
-caption: Etiqutas de seguridad de alta calidad para la protección de activos y documentos de importancia.  Las etiquetas con diseñadas a la medida de las necesidades de nuestros clientes, incluyendo tecnología de punta que dificulta en gran medida su manipulación.
+caption: Etiquetas de seguridad de alta calidad para la protección de activos y documentos de importancia.  Las etiquetas con diseñadas a la medida de las necesidades de nuestros clientes, incluyendo tecnología de punta que dificulta en gran medida su manipulación.
 ---
