@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2015-01-14 02:09:00
+photo: db.png
+caption_header: Bases de Datos
+caption: Diseño y depuración de bases de datos siguiendo los estandares reconocidos para garantizar la disponibilidad y escalabilidad de la información
+---
